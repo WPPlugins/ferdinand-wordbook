@@ -1,0 +1,22 @@
+/* Facebook Gallery Widget CSS */
+img.fbwidget{
+	border: 1px solid #ccc;
+	background: #fff;
+	padding: 2px;
+}
+img.fbwidget:hover {
+	border-color:#999;
+}
+.fbtip { /* For tooltips (tags in image) */
+	text-align:center;
+	color: #eee;font-family:Tahoma;font-weight:bold;
+	background:#333;font-size:11px;padding:4px
+}
+/* FB Status widget */
+.fbstatus_time {
+	display:block;
+}
+.fbstatus_text {
+	display:block;
+	padding:4px 0 0 0;
+}

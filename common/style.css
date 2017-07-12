@@ -1,0 +1,29 @@
+#fbuser_accountbox {
+}
+#fbuser_accountbox img.profilepic {
+	float:left;
+	border: 1px solid #ccc;
+	background: #fff;
+	padding: 2px;
+	margin-right:8px;
+}
+.buttonbar {
+	margin-top:4px;
+}
+img.gallerypic {
+	border: 1px solid #ccc;
+	background: #fff;
+	padding: 2px;
+	margin-right:8px;
+}
+img.fbwidget {
+	border: 1px solid #ccc;
+	background: #fff;
+	padding: 3px;
+	margin-right:8px;
+}
+
+/* FB Status widget */
+.fbstatus_time {
+	display:block;
+}
